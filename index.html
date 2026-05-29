@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vibe Coding | AI as a Programming Assistant</title>
+  <meta name="description" content="A fun, presentation-style website for Vibe Coding: using AI as a programming assistant.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="background-layer" aria-hidden="true"></div>
+
+  <header class="site-header">
+    <a class="brand" href="#top">Vibe Coding</a>
+    <nav>
+      <a href="#story">Story</a>
+      <a href="#cards">Cards</a>
+      <a href="#gallery">Media Wall</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero section">
+      <div class="hero-copy reveal">
+        <p class="kicker">AI Summit 2026</p>
+        <h1>Using AI as a Programming Assistant</h1>
+        <p class="subtitle">A live presentation turned into a playable website.</p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="#cards">Browse the deck</a>
+          <a class="btn btn-ghost" href="#gallery">Open media wall</a>
+        </div>
+      </div>
+      <div class="hero-visual reveal">
+        <img src="Images/Background_01.png" alt="Presentation background artwork">
+      </div>
+    </section>
+
+    <section id="story" class="section section-story">
+      <div class="section-head reveal">
+        <p class="kicker">The arc</p>
+        <h2>From Wyoming roots to shipping real projects with AI</h2>
+      </div>
+      <div id="storyline" class="storyline"></div>
+    </section>
+
+    <section id="cards" class="section section-cards">
+      <div class="section-head reveal">
+        <p class="kicker">Presentation cards</p>
+        <h2>Every card, rendered from your original markdown files</h2>
+      </div>
+      <div id="cardGrid" class="card-grid"></div>
+    </section>
+
+    <section id="gallery" class="section section-gallery">
+      <div class="section-head reveal">
+        <p class="kicker">Imagery</p>
+        <h2>Complete media wall</h2>
+      </div>
+      <p class="gallery-note reveal">Includes all compiled visuals and clips from the repository.</p>
+      <div id="mediaWall" class="media-wall"></div>
+    </section>
+  </main>
+
+  <dialog id="cardModal" class="card-modal" aria-labelledby="modalTitle">
+    <button id="closeModal" class="modal-close" aria-label="Close">Close</button>
+    <div class="modal-header">
+      <p id="modalTag" class="kicker"></p>
+      <h3 id="modalTitle"></h3>
+      <a id="modalSource" class="modal-source" target="_blank" rel="noopener noreferrer">Open source markdown</a>
+    </div>
+    <div id="modalBody" class="modal-body"></div>
+    <div id="modalMedia" class="modal-media"></div>
+  </dialog>
+
+  <footer class="site-footer">
+    <p>Built from live presentation artifacts. Hosted on GitHub Pages.</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="app.js" defer></script>
+</body>
+</html>
