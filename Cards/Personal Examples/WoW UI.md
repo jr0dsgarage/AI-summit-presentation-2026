@@ -1,0 +1,7 @@
+- WoW supports addons that change the UI
+	- UI = everything you see that is interactive in some way, not the rendered game.
+- Been using addons created by others for years
+- Decided to try to make my own
+- Extremely rewarding
+- Can use Images as feedback for the AI agents
+- Really leverages VSCode's ability to manage multiple projects at the same time

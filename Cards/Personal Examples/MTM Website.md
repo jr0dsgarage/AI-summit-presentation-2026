@@ -1,0 +1,6 @@
+- A collection of programs for an electronic music device
+- Programming files were buried in a github repository
+- Forked the repo to play with an idea for a website 
+- Was able to generate almost the entire idea with the first prompt.
+- Again, the rest is just chatting with the AI to implement little features, like the 'digital' card. number
+- Automatically updates whenever the github repository updates!

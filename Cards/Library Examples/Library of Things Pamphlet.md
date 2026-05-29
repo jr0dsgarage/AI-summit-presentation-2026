@@ -1,0 +1,4 @@
+- Like a lot of libraries, we now have a Library of Things.
+	- Created a master spreadsheet for the collection
+	- Used the data to create a Pamphlet
+	- Used clasp instead of Github to upload code.

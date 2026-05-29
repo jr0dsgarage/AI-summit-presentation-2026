@@ -1,0 +1,151 @@
+{
+	"nodes":[
+		{"id":"3a97552a4766d4c7","type":"file","file":"Vibe Coding - AI as a programming assistant/Cards/My Coding Environment.md","x":-40,"y":-900,"width":240,"height":840},
+		{"id":"55b2969f6f55ef95","type":"file","file":"Vibe Coding - AI as a programming assistant/Cards/Brief Personal History.md","x":-400,"y":-900,"width":240,"height":840},
+		{"id":"9f863bf044c34072","type":"file","file":"Vibe Coding - AI as a programming assistant/Cards/Title Card.md","x":-680,"y":-900,"width":220,"height":140},
+		{"id":"c08d9f9a52af6b00","type":"file","file":"Vibe Coding - AI as a programming assistant/Cards/Personal Examples/Personal Examples.md","x":290,"y":-900,"width":280,"height":220},
+		{"id":"99a965d2f5b3de97","type":"file","file":"Vibe Coding - AI as a programming assistant/Cards/Library Examples/Library Examples.md","x":1160,"y":-900,"width":260,"height":220},
+		{"id":"b358ddd6b2eab785","type":"file","file":"Vibe Coding - AI as a programming assistant/Cards/Personal Examples/WoW UI.md","x":850,"y":-480,"width":270,"height":740},
+		{"id":"e549e50f64fcc0f2","type":"file","file":"Vibe Coding - AI as a programming assistant/Cards/Personal Examples/MTM Website.md","x":570,"y":-480,"width":280,"height":740},
+		{"id":"8b37b2a931f429dd","type":"file","file":"Vibe Coding - AI as a programming assistant/Cards/Library Examples/Computer \"Cleaners\".md","x":1160,"y":-480,"width":260,"height":740},
+		{"id":"ed8ca3d2444b270c","type":"file","file":"Vibe Coding - AI as a programming assistant/Cards/Library Examples/Library of Things Pamphlet.md","x":1420,"y":-480,"width":280,"height":740},
+		{"id":"3b9cc063a83f04df","type":"file","file":"Vibe Coding - AI as a programming assistant/Cards/Library Examples/Playtime Timer.md","x":1700,"y":-480,"width":280,"height":740},
+		{"id":"f453e8e2aefac771","type":"file","file":"Vibe Coding - AI as a programming assistant/Cards/Take-aways.md","x":2020,"y":-900,"width":380,"height":560},
+		{"id":"fa2487010d7deb59","type":"file","file":"Vibe Coding - AI as a programming assistant/Cards/Personal Examples/Playdate Game.md","x":290,"y":-480,"width":280,"height":740},
+		{"id":"5d63d06216bc5fb5","type":"file","file":"Vibe Coding - AI as a programming assistant/Cards/Final Thoughts.md","x":2520,"y":-460,"width":400,"height":400},
+		{"id":"9b24bebb268332cf","type":"file","file":"Vibe Coding - AI as a programming assistant/Cards/Questions?.md","x":3040,"y":-700,"width":220,"height":160}
+	],
+	"edges":[
+		{
+			"id":"4c06eb56b0652314",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9f863bf044c34072",
+			"fromSide":"bottom",
+			"toNode":"55b2969f6f55ef95",
+			"toSide":"left"
+		},
+		{
+			"id":"8b89bdd3dff3759d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"55b2969f6f55ef95",
+			"fromSide":"right",
+			"toNode":"3a97552a4766d4c7",
+			"toSide":"left"
+		},
+		{
+			"id":"f71b4456c2ad648b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3a97552a4766d4c7",
+			"fromSide":"right",
+			"toNode":"c08d9f9a52af6b00",
+			"toSide":"left"
+		},
+		{
+			"id":"2d33518ec3021b00",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f453e8e2aefac771",
+			"fromSide":"right",
+			"toNode":"9b24bebb268332cf",
+			"toSide":"left"
+		},
+		{
+			"id":"a25103853cbc6df5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c08d9f9a52af6b00",
+			"fromSide":"bottom",
+			"toNode":"fa2487010d7deb59",
+			"toSide":"top"
+		},
+		{
+			"id":"d99c1d670a21a82c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c08d9f9a52af6b00",
+			"fromSide":"bottom",
+			"toNode":"e549e50f64fcc0f2",
+			"toSide":"top"
+		},
+		{
+			"id":"84e57390f5ea832b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c08d9f9a52af6b00",
+			"fromSide":"bottom",
+			"toNode":"b358ddd6b2eab785",
+			"toSide":"top"
+		},
+		{
+			"id":"02623fe1c15a54df",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c08d9f9a52af6b00",
+			"fromSide":"right",
+			"toNode":"99a965d2f5b3de97",
+			"toSide":"left"
+		},
+		{
+			"id":"345203a60917cef8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"99a965d2f5b3de97",
+			"fromSide":"bottom",
+			"toNode":"8b37b2a931f429dd",
+			"toSide":"top"
+		},
+		{
+			"id":"e70a16189d32a863",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"99a965d2f5b3de97",
+			"fromSide":"bottom",
+			"toNode":"ed8ca3d2444b270c",
+			"toSide":"top"
+		},
+		{
+			"id":"193bc545d2b8b0cb",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"99a965d2f5b3de97",
+			"fromSide":"bottom",
+			"toNode":"3b9cc063a83f04df",
+			"toSide":"top"
+		},
+		{
+			"id":"f77ff3ebe158a545",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"99a965d2f5b3de97",
+			"fromSide":"right",
+			"toNode":"f453e8e2aefac771",
+			"toSide":"left"
+		},
+		{
+			"id":"44d55073d68127f9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f453e8e2aefac771",
+			"fromSide":"right",
+			"toNode":"5d63d06216bc5fb5",
+			"toSide":"left"
+		},
+		{
+			"id":"d780ec33ed0dcc3c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5d63d06216bc5fb5",
+			"fromSide":"right",
+			"toNode":"9b24bebb268332cf",
+			"toSide":"left"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"6d2fb57395acd80b"
+	}
+}

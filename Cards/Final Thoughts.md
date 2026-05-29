@@ -1,0 +1,7 @@
+- I always wanted to be a software engineer and programmer.  Now I can be, thanks to my AI assistant.
+- Methods presented here are just one way to do this.
+- I almost constantly have a Vibe Coding project going.
+- Have to work on something else while Vibe Coding.
+- Finishing projects is still hard.
+- Concerns about the cost of AI still linger.
+- I can't wait to see what another year brings!
