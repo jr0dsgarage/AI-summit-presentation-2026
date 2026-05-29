@@ -1,6 +1,14 @@
-- A collection of programs for an electronic music device
-- Programming files were buried in a github repository
-- Forked the repo to play with an idea for a website 
+- Summer 2025
+
+- A modular music system that is hand built
+- Basically an electronic noise maker
+- Use cables to affect the sound output
+- Left-most module is the “Computer”
+- Computer module can be programmed using ROM cards the size of microSD cards  
+    - Computer cards slot into the Computer module at the bottom
+- Using the default Github Repository to download cards was arduous
+- thanks to my AI Assistant there is now a better way!
+- Forked the repo to play with an idea for a CARD VIEWER website (made a copy that I can host on my GitHub)
 - Was able to generate almost the entire idea with the first prompt.
-- Again, the rest is just chatting with the AI to implement little features, like the 'digital' card. number
+- Again, the rest is just chatting with the AI to implement little features, like the 'digital' card number
 - Automatically updates whenever the github repository updates!

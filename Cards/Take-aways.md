@@ -5,5 +5,6 @@
 | Responsiveness      | Makes unnecessary Changes                    |
 | Not my code         | I can't quickly jump to fix something myself |
 | Constantly Evolving | Constantly Evolving                          |
+|                     |                                              |
 
 
